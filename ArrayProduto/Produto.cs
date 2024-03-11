@@ -10,7 +10,6 @@ namespace ArrayProduto
         public int codigo;
         public string? nome;
         public double preco;
-
         public int quantidade;
 
         //declaração dos métodos

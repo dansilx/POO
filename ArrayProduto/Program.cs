@@ -31,3 +31,10 @@ for(int i = 0; i < vetP.Length; i++)
     Console.WriteLine($"Valor total do produto {vetP[i].nome}:   {vetP[i].ValorTotalEstoque()}");
 }
 
+foreach (Produto p in vetP)
+{
+    Console.WriteLine("Digite a quantidade vendida: ");
+    int qtde = Convert.ToInt32(Console.ReadLine());
+    p.removerEstoque(qtde);
+    p.MostrarAtributos();
+}
