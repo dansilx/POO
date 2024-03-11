@@ -11,6 +11,8 @@ namespace ArrayProduto
         public string? nome;
         public double preco;
 
+        public int quantidade;
+
         //declaração dos métodos
         public void MostrarAtributos()
         {
@@ -20,6 +22,17 @@ namespace ArrayProduto
         {
             preco = preco + (preco * porcentagem/100);
             //preco += preco * porcentagem/100;
+        }
+
+        public double ValorTotalEstoque()
+        {
+            double totalEstoque = preco * quantidade;
+            return totalEstoque;
+        }
+
+        public int removerEstoque(int quantidadeRemovida)
+        {
+            quantidade = quantidade - quantidadeRemovida;
         }
     }
 }
