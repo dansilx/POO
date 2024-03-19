@@ -1,0 +1,15 @@
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.csproj.AssemblyReference.cache
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.AssemblyInfoInputs.cache
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.AssemblyInfo.cs
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\POO\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.exe
+C:\Users\aluno\POO\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.deps.json
+C:\Users\aluno\POO\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.runtimeconfig.json
+C:\Users\aluno\POO\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.dll
+C:\Users\aluno\POO\ConstrutorProduto\bin\Debug\net6.0\ConstrutorProduto.pdb
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.dll
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\refint\ConstrutorProduto.dll
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.pdb
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ConstrutorProduto.genruntimeconfig.cache
+C:\Users\aluno\POO\ConstrutorProduto\obj\Debug\net6.0\ref\ConstrutorProduto.dll
