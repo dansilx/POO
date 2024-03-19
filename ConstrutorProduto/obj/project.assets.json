@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\POO\\ConstrutorConta\\ConstrutorConta.csproj",
-      "projectName": "ConstrutorConta",
-      "projectPath": "C:\\Users\\aluno\\POO\\ConstrutorConta\\ConstrutorConta.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj",
+      "projectName": "ConstrutorProduto",
+      "projectPath": "C:\\Users\\aluno\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\POO\\ConstrutorConta\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\POO\\ConstrutorProduto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
