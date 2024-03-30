@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qPNJv/J8eJa6YtAQPmuVno8ZPQldtwkJ6h4GRiQEVWzcqwz/TVAqP1nPxiC8OH43pV45CQ8TVeb2H9NVBNQqvQ==",
+  "dgSpecHash": "liRzB8i4z0wYRRg7TEVmRqsEuUp8IluXYKwb7/nsxuP/uUwkcU+EIhyfCUwfmvEY0+kkyZ9UHBUeDG5La09gTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\POO\\AgregacaoConta\\AgregacaoConta.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/dansilx/POO/AgregacaoConta/AgregacaoConta.csproj",
+  "expectedPackageFiles": [
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

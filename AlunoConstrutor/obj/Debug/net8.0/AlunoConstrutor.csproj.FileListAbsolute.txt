@@ -1,0 +1,5 @@
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.AssemblyInfoInputs.cache
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.AssemblyInfo.cs
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.csproj.CoreCompileInputs.cache
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.sourcelink.json

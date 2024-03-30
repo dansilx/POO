@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "D8bjnEzSvVaXUwV/cIycgyqhavfsEhcrw59Rk5G0JHWYUz1G6Zlk3VV13q7H5sHhjkcto83OSScw8tPhz2mcBA==",
+  "dgSpecHash": "J34xrpMsPXN0Ak6Yld/B8DzK7hmsNRX8Dp4cuhNCMCmvGAl3erBcmekWeSzzTX+uCSeZlL3NIEduHtn9IXl3VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\POO\\ArrayProduto\\ArrayProduto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/dansilx/POO/ArrayProduto/ArrayProduto.csproj",
+  "expectedPackageFiles": [
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

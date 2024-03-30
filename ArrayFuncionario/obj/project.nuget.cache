@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "plHVoYOnE7nkQgp+1aar+xfZ64d7gPj8x9KUTRM5nKpxy5ApRYFfq9K+U3uxCDhdDtEDczBZ09x4U1eCX/iUPg==",
+  "dgSpecHash": "hhNGbpPwF5t7yTHamOSBBB0ht8R7hUOxvFq+OFxsRRm0ujDbGPKB1/0lC0/LBwHKEdbp/FnQIY2EXj2861Q6Vg==",
   "success": true,
-  "projectFilePath": "D:\\POO noite\\ArrayFuncionario\\ArrayFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/dansilx/POO/ArrayFuncionario/ArrayFuncionario.csproj",
+  "expectedPackageFiles": [
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

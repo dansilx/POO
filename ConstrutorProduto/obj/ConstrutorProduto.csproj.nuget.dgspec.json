@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj": {}
+    "/home/dansilx/POO/ConstrutorProduto/ConstrutorProduto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj": {
+    "/home/dansilx/POO/ConstrutorProduto/ConstrutorProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj",
+        "projectUniqueName": "/home/dansilx/POO/ConstrutorProduto/ConstrutorProduto.csproj",
         "projectName": "ConstrutorProduto",
-        "projectPath": "C:\\Users\\aluno\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\POO\\ConstrutorProduto\\obj\\",
+        "projectPath": "/home/dansilx/POO/ConstrutorProduto/ConstrutorProduto.csproj",
+        "packagesPath": "/home/dansilx/.nuget/packages/",
+        "outputPath": "/home/dansilx/POO/ConstrutorProduto/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/dansilx/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -51,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
