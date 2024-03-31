@@ -3,3 +3,13 @@
 /home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.AssemblyInfo.cs
 /home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.csproj.CoreCompileInputs.cache
 /home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.sourcelink.json
+/home/dansilx/POO/AlunoConstrutor/bin/Debug/net8.0/AlunoConstrutor
+/home/dansilx/POO/AlunoConstrutor/bin/Debug/net8.0/AlunoConstrutor.deps.json
+/home/dansilx/POO/AlunoConstrutor/bin/Debug/net8.0/AlunoConstrutor.runtimeconfig.json
+/home/dansilx/POO/AlunoConstrutor/bin/Debug/net8.0/AlunoConstrutor.dll
+/home/dansilx/POO/AlunoConstrutor/bin/Debug/net8.0/AlunoConstrutor.pdb
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.dll
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/refint/AlunoConstrutor.dll
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.pdb
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/AlunoConstrutor.genruntimeconfig.cache
+/home/dansilx/POO/AlunoConstrutor/obj/Debug/net8.0/ref/AlunoConstrutor.dll

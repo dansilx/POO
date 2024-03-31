@@ -7,40 +7,36 @@ namespace AlunoConstrutor
 {
     public class Aluno
     {
-        private static long matricula;
-
-        public long Matricula
+        private static long matricula {get; set;}
+        public long AddMatricula 
         {
-            get { return matricula; }
-            private set { matricula = value; }
+            get {return matricula;}
+            private set {matricula = value;}
         }
-        public string Nome { get; set; }
-        public double Prova1 { get; set; }
-        public double Prova2 { get; set; }
-
-        public double media;
+        public string Nome { get; set;}
+        public double Prova1 { get; set;}
+        public double Prova2 { get; set;}
+        public double Media;
 
         static Aluno() 
         {
-            matricula = 1234567890000;
+            matricula = 123456789000;
         }
 
         public Aluno()
         {
-            Matricula++;
+            AddMatricula++;
         }
-        public double CalcularMedia(double Prova1, double Prova2)
+
+        private double CalcularMedia()
         {
-            return media = Prova1+Prova2/2;
+            Media = Prova1+Prova2/2;
+            return Media;
         }
 
         public void MostrarAtributos()
         {
-            Console.WriteLine($"Matricula: {Matricula}");
-            Console.WriteLine($"Nome: {Nome}");
-            Console.WriteLine($"Prova 1: {Prova1}");
-            Console.WriteLine($"Prova 2: {Prova2}");
-            Console.WriteLine($"Média: {media}");
+            Console.WriteLine($"Matricula: {AddMatricula} \nNome: {Nome}\nProva 1: {Prova1}\nProva 2: {Prova2}\nMédia: {CalcularMedia()}");
         }
     }
 }
