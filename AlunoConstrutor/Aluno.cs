@@ -28,9 +28,16 @@ namespace AlunoConstrutor
             AddMatricula++;
         }
 
+        public Aluno(string nome, double p1, double p2)
+        {
+            Nome = nome;
+            Prova1 = p1;
+            Prova2 = p2;
+        }  
+          
         private double CalcularMedia()
         {
-            Media = Prova1+Prova2/2;
+            Media = (Prova1+Prova2)/2;
             return Media;
         }
 
