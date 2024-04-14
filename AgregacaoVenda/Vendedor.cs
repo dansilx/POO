@@ -7,7 +7,10 @@ namespace AgregacaoVenda
 {
     public class Vendedor
     {
-        private double comissao;
+        public double Comissao { get; set; }
 
+        public void MostrarAtributos() {
+            System.Console.WriteLine($"Comissão do Vendedor: {this.Comissao:c}");
+        }
     }
 }

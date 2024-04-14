@@ -7,7 +7,10 @@ namespace AgregacaoVenda
 {
     public class Comprador
     {
-        private double verba;
-        
+        public double Verba { get; set; }
+
+        public void MostrarAtributos( {
+            System.Console.WriteLine(($"Saldo do Comprador: {this.Verba:c}"));
+        })        
     }
 }
