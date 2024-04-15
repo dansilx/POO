@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "W9S1Ht6kSE6WhOnyWEovyRPw/hzI4XOUN35onodpY4Op4VzGDdLtb+P09VZf0NGWm61kgUYtBdDZlw2CvsTveA==",
+  "dgSpecHash": "khM6BPgyTN6Q7hpdp9RXEN/PdQB6Ve63ef/6LYWYT6hjuE0BKzG1vEs7JF9DvSPOh6T5IvAV6PKqfk5XCyvKwA==",
   "success": true,
-  "projectFilePath": "/home/dansilx/POO/AgregacaoArrayConta/AgregacaoArrayConta.csproj",
+  "projectFilePath": "C:\\Users\\BMC010\\POO\\AgregacaoArrayConta\\AgregacaoArrayConta.csproj",
   "expectedPackageFiles": [
-    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }

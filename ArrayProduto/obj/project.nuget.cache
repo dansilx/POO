@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "J34xrpMsPXN0Ak6Yld/B8DzK7hmsNRX8Dp4cuhNCMCmvGAl3erBcmekWeSzzTX+uCSeZlL3NIEduHtn9IXl3VA==",
+  "dgSpecHash": "GWJWdmONvDlDv6g0hgCbiZ2VHEoi3BYpBahcH/GfDrrrObldnqKEP3zFYBGPFYlxza4KZ7nd43e+6xXFbYN9pw==",
   "success": true,
-  "projectFilePath": "/home/dansilx/POO/ArrayProduto/ArrayProduto.csproj",
+  "projectFilePath": "C:\\Users\\BMC010\\POO\\ArrayProduto\\ArrayProduto.csproj",
   "expectedPackageFiles": [
-    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }
