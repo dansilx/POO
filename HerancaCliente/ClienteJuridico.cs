@@ -9,7 +9,7 @@ namespace HerancaCliente
     {  
         private string cnpj;
 
-        public int Cnpj{
+        public string Cnpj{
             get { return cnpj; }
             set { cnpj = value; }
         }
