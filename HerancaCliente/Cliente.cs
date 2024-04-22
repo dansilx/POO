@@ -10,5 +10,17 @@ namespace HerancaCliente
         protected int codigo;
         protected string nome;
         protected string endereco;
+        public int Codigo{
+            get { return codigo; }
+            set { codigo = value; }
+        }
+        public string Nome{
+            get { return nome; }
+            set { nome = value; }
+        }
+        public string Endereco{
+            get { return endereco; }
+            set { endereco = value; }
+        }
     }
 }

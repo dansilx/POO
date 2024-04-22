@@ -8,5 +8,10 @@ namespace HerancaCliente
     public class ClienteJuridico : Cliente
     {  
         private string cnpj;
+
+        public int Cnpj{
+            get { return cnpj; }
+            set { cnpj = value; }
+        }
     }
 }

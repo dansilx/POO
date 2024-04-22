@@ -12,5 +12,10 @@ namespace HerancaCliente
         public void Mostrar() {
             System.Console.WriteLine("Codigo: " + codigo + "\nNome: " + nome + "\nEndereço: " + endereco + "\nRg" + rg);
         }
+
+         public string Rg{
+            get { return rg; }
+            set { rg = value; } 
+        }
     }
 }
