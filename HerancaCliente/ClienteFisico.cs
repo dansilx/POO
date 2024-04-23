@@ -8,9 +8,16 @@ namespace HerancaCliente
     public class ClienteFisico : Cliente
     {   
         private string rg;
-        
+        public ClienteFisico() : base(){
+
+        }
+        public ClienteFisico(int codigo, string nome, string endereco, string rg) : base (codigo, nome, endereco)
+        {
+            Rg = rg;
+        }
         public void Mostrar() {
-            System.Console.WriteLine("Codigo: " + codigo + "\nNome: " + nome + "\nEndereço: " + endereco + "\nRg" + rg);
+            base.Mostrar();
+            System.Console.WriteLine("RG: " + rg);
         }
 
          public string Rg{

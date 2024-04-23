@@ -10,6 +10,19 @@ namespace HerancaCliente
         protected int codigo;
         protected string nome;
         protected string endereco;
+
+        public Cliente(){
+
+        }
+        public Cliente(int codigo, string nome, string endereco) {
+            Codigo = codigo;
+            Nome = nome;
+            Endereco = endereco;
+        }
+        public void Mostrar() {
+            System.Console.WriteLine("Código: " + codigo + "\nNome: " + nome + "\nEndereço: " + endereco);
+        }
+
         public int Codigo{
             get { return codigo; }
             set { codigo = value; }
