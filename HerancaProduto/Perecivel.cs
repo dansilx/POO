@@ -11,7 +11,7 @@ namespace HerancaProduto
         private string dataValidade;
         private int lote;
 
-        public string dataFabricacao {
+        public string DataFabricacao {
             get{return dataFabricacao;}
             set{dataFabricacao = value;}
         } 
