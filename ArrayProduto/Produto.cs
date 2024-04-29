@@ -31,7 +31,7 @@ namespace ArrayProduto
 
         public int removerEstoque(int quantidadeRemovida)
         {
-            quantidade = quantidade - quantidadeRemovida;
+            return quantidade = quantidade - quantidadeRemovida;
         }
     }
 }
