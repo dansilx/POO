@@ -7,6 +7,11 @@ namespace HerancaFuncionario
 {
     public class Horista
     {
-        
+        private int qtdeHrsSem;
+
+        public int QtdeHrsSem{
+            get { return qtdeHrsSem; }
+            set { qtdeHrsSem = value; }
+        }
     }
 }

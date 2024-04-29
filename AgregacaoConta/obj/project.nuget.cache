@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5W1ex0hKjhwt4hq76ClK48BE4PEOTSTbUSivYBz1cY702nwPe5iSM1coKRn1zOd3VR9D9ISCR9qdaXt5VkR8pQ==",
+  "dgSpecHash": "liRzB8i4z0wYRRg7TEVmRqsEuUp8IluXYKwb7/nsxuP/uUwkcU+EIhyfCUwfmvEY0+kkyZ9UHBUeDG5La09gTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BMC010\\POO\\AgregacaoConta\\AgregacaoConta.csproj",
+  "projectFilePath": "/home/dansilx/POO/AgregacaoConta/AgregacaoConta.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }
