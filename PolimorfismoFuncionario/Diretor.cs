@@ -5,10 +5,14 @@ using System.Threading.Tasks;
 
 namespace PolimorfismoFuncionario
 {
-    public class Diretor
+    public class Diretor : Funcionario
     {
-         public Diretor (int codigo, string nome, double salario) : base (codigo, nome, salario) {
+        public Diretor (int codigo, string nome, double salario) : base (codigo, nome, salario) {
         
+        }
+
+        public override double Bonificacao() {
+            return base.Bonificacao() + 1000;    
         }
     }
 }

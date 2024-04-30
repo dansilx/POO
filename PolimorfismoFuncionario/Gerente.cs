@@ -5,10 +5,14 @@ using System.Threading.Tasks;
 
 namespace PolimorfismoFuncionario
 {
-    public class Gerente
+    public class Gerente : Funcionario
     {
         public Gerente (int codigo, string nome, double salario) : base (codigo, nome, salario) {
         
+        }
+
+        public override double Bonificacao() {
+            return Salario * 15/100;
         }
     }
 }
