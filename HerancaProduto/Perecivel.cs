@@ -35,7 +35,7 @@ namespace HerancaProduto
             get{return lote;}
             set{lote = value;}
         }
-        public void Mostrar() {
+        public override void Mostrar() {
             base.Mostrar();
             System.Console.WriteLine("Data de Fabricação: " + DataFabricacao + "\nData de Validade: " + DataValidade + "\nLote: " + Lote);
         }

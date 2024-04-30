@@ -35,7 +35,7 @@ namespace HerancaProduto
             Preco = preco;
         }
 
-        public void Mostrar() {
+        public virtual void Mostrar() {
             System.Console.WriteLine("Código: " + Codigo + "\nNome: " + Nome + "\nPreço: " + Preco);
         }
 
