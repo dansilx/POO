@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dansilx/POO/AgregacaoArrayConta/AgregacaoArrayConta.csproj",
+      "projectUniqueName": "/home/dansilx/Projetos/POO/AgregacaoArrayConta/AgregacaoArrayConta.csproj",
       "projectName": "AgregacaoArrayConta",
-      "projectPath": "/home/dansilx/POO/AgregacaoArrayConta/AgregacaoArrayConta.csproj",
+      "projectPath": "/home/dansilx/Projetos/POO/AgregacaoArrayConta/AgregacaoArrayConta.csproj",
       "packagesPath": "/home/dansilx/.nuget/packages/",
-      "outputPath": "/home/dansilx/POO/AgregacaoArrayConta/obj/",
+      "outputPath": "/home/dansilx/Projetos/POO/AgregacaoArrayConta/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dansilx/.nuget/NuGet/NuGet.Config"

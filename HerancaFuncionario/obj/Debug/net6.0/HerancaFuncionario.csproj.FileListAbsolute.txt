@@ -1,0 +1,15 @@
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/HerancaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/HerancaFuncionario.AssemblyInfoInputs.cache
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/HerancaFuncionario.AssemblyInfo.cs
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/HerancaFuncionario.csproj.CoreCompileInputs.cache
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/HerancaFuncionario.sourcelink.json
+/home/dansilx/Projetos/POO/HerancaFuncionario/bin/Debug/net6.0/HerancaFuncionario
+/home/dansilx/Projetos/POO/HerancaFuncionario/bin/Debug/net6.0/HerancaFuncionario.deps.json
+/home/dansilx/Projetos/POO/HerancaFuncionario/bin/Debug/net6.0/HerancaFuncionario.runtimeconfig.json
+/home/dansilx/Projetos/POO/HerancaFuncionario/bin/Debug/net6.0/HerancaFuncionario.dll
+/home/dansilx/Projetos/POO/HerancaFuncionario/bin/Debug/net6.0/HerancaFuncionario.pdb
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/HerancaFuncionario.dll
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/refint/HerancaFuncionario.dll
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/HerancaFuncionario.pdb
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/HerancaFuncionario.genruntimeconfig.cache
+/home/dansilx/Projetos/POO/HerancaFuncionario/obj/Debug/net6.0/ref/HerancaFuncionario.dll

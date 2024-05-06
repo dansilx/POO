@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dansilx/POO/ArrayProduto/ArrayProduto.csproj": {}
+    "/home/dansilx/Projetos/POO/ArrayProduto/ArrayProduto.csproj": {}
   },
   "projects": {
-    "/home/dansilx/POO/ArrayProduto/ArrayProduto.csproj": {
+    "/home/dansilx/Projetos/POO/ArrayProduto/ArrayProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dansilx/POO/ArrayProduto/ArrayProduto.csproj",
+        "projectUniqueName": "/home/dansilx/Projetos/POO/ArrayProduto/ArrayProduto.csproj",
         "projectName": "ArrayProduto",
-        "projectPath": "/home/dansilx/POO/ArrayProduto/ArrayProduto.csproj",
+        "projectPath": "/home/dansilx/Projetos/POO/ArrayProduto/ArrayProduto.csproj",
         "packagesPath": "/home/dansilx/.nuget/packages/",
-        "outputPath": "/home/dansilx/POO/ArrayProduto/obj/",
+        "outputPath": "/home/dansilx/Projetos/POO/ArrayProduto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dansilx/.nuget/NuGet/NuGet.Config"

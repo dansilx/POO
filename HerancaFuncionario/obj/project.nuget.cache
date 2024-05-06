@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GNSR+x6YbHa5dvPs2x/GhnVLYRQKLEDvfWFKfvdtYLLUfj6kmxxLNLX1y0ji4+IWO81Sa0dTEzt1IqWHzPuDiQ==",
+  "dgSpecHash": "g+33IxTb+TRvT3nU8H/9ShP7ZNLOpNZzZVi9ivqoSgyYueRa/fYup8MuDiGiSIqqIfT5yZ3bIT7HuMRcAynPKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/dansilx/Projetos/POO/HerancaFuncionario/HerancaFuncionario.csproj",
+  "expectedPackageFiles": [
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

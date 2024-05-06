@@ -19,7 +19,7 @@ namespace HerancaFuncionario
             salario = salario;
         }
 
-        public void Mostrar() {
+        public virtual void Mostrar() {
             System.Console.WriteLine("Código: " + codigo + "\nNome: " + nome + "\nSalario: " + salario);
         }
         

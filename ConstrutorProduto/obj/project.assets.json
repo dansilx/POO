@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dansilx/POO/ConstrutorProduto/ConstrutorProduto.csproj",
+      "projectUniqueName": "/home/dansilx/Projetos/POO/ConstrutorProduto/ConstrutorProduto.csproj",
       "projectName": "ConstrutorProduto",
-      "projectPath": "/home/dansilx/POO/ConstrutorProduto/ConstrutorProduto.csproj",
+      "projectPath": "/home/dansilx/Projetos/POO/ConstrutorProduto/ConstrutorProduto.csproj",
       "packagesPath": "/home/dansilx/.nuget/packages/",
-      "outputPath": "/home/dansilx/POO/ConstrutorProduto/obj/",
+      "outputPath": "/home/dansilx/Projetos/POO/ConstrutorProduto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dansilx/.nuget/NuGet/NuGet.Config"

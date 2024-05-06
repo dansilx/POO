@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dansilx/POO/EncapsulamentoConta/EncapsulamentoConta.csproj": {}
+    "/home/dansilx/Projetos/POO/EncapsulamentoConta/EncapsulamentoConta.csproj": {}
   },
   "projects": {
-    "/home/dansilx/POO/EncapsulamentoConta/EncapsulamentoConta.csproj": {
+    "/home/dansilx/Projetos/POO/EncapsulamentoConta/EncapsulamentoConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dansilx/POO/EncapsulamentoConta/EncapsulamentoConta.csproj",
+        "projectUniqueName": "/home/dansilx/Projetos/POO/EncapsulamentoConta/EncapsulamentoConta.csproj",
         "projectName": "EncapsulamentoConta",
-        "projectPath": "/home/dansilx/POO/EncapsulamentoConta/EncapsulamentoConta.csproj",
+        "projectPath": "/home/dansilx/Projetos/POO/EncapsulamentoConta/EncapsulamentoConta.csproj",
         "packagesPath": "/home/dansilx/.nuget/packages/",
-        "outputPath": "/home/dansilx/POO/EncapsulamentoConta/obj/",
+        "outputPath": "/home/dansilx/Projetos/POO/EncapsulamentoConta/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dansilx/.nuget/NuGet/NuGet.Config"
