@@ -12,7 +12,7 @@ namespace AbstratoCliente
         public ClienteJuridico() : base() {
             
         }
-        public ClienteJuridico(int codigo, string nome, string endereco, string cnpj) : base (codigo, nome, endereco)
+        public ClienteJuridico(int codigo, string nome, string endereco, int idade, string cnpj) : base (codigo, nome, endereco, idade)
         {   
             Cnpj = cnpj;
         }

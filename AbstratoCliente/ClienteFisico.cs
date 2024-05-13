@@ -11,7 +11,7 @@ namespace AbstratoCliente
         public ClienteFisico() : base(){
 
         }
-        public ClienteFisico(int codigo, string nome, string endereco, string rg) : base (codigo, nome, endereco)
+        public ClienteFisico(int codigo, string nome, string endereco, int idade, string rg) : base (codigo, nome, endereco, idade)
         {
             Rg = rg;
         }
