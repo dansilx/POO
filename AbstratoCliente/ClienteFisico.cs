@@ -15,9 +15,10 @@ namespace AbstratoCliente
         {
             Rg = rg;
         }
-        public void Mostrar() {
-            base.Mostrar();
-            System.Console.WriteLine("RG: " + rg);
+        public override void Mostrar() {
+            //base.Mostrar();
+            //System.Console.WriteLine("RG: " + rg);
+            System.Console.WriteLine("Código: " + codigo + "\nNome: " + nome + "\nEndereço: " + endereco + "\nRG: " + rg);    
         }
 
          public string Rg{

@@ -22,9 +22,10 @@ namespace AbstratoCliente
             set { cnpj = value; }
         }
 
-        public void Mostrar() {
-            base.Mostrar();
-            System.Console.WriteLine("CNPJ: " + Cnpj);
+        public override void Mostrar() {
+            //base.Mostrar();
+            //System.Console.WriteLine("CNPJ: " + Cnpj);
+             System.Console.WriteLine("Código: " + codigo + "\nNome: " + nome + "\nEndereço: " + endereco + "\nCNPJ: " + Cnpj);
         }
     }
 }
