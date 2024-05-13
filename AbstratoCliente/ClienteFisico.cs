@@ -25,5 +25,11 @@ namespace AbstratoCliente
             get { return rg; }
             set { rg = value; } 
         }
+
+        public override void AvaliaIdade() {
+            if (Idade >= 18 && Idade < 40) {
+                System.Console.WriteLine("Cliente Físico!");
+            }
+        }
     }
 }

@@ -27,5 +27,11 @@ namespace AbstratoCliente
             //System.Console.WriteLine("CNPJ: " + Cnpj);
              System.Console.WriteLine("Código: " + codigo + "\nNome: " + nome + "\nEndereço: " + endereco + "\nCNPJ: " + Cnpj);
         }
+
+        public override void AvaliaIdade() {
+            if (Idade >= 40) {
+                System.Console.WriteLine("Cliente Jurídico!");
+            }
+        }
     }
 }
