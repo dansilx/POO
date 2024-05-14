@@ -26,5 +26,23 @@ namespace AbstratoFuncionario
                 f.Mostrar();
             }
         }
+
+        public void Demitir(int codigo) {
+            for(int i=0; i < VetF.Count; i++){
+                Funcionario f = VetF.ElementAt<Funcionario>(i);
+                if (f.Codigo == codigo) {
+                    VetF.Remove(f);
+                } 
+            }
+        }
+
+        public double CalcularFolha(int diasUteis) {
+            double folha = 0;
+            for(int i=0; i < VetF.Count; i++){
+                Funcionario f = VetF.ElementAt<Funcionario>(i);
+                folha += f.CalcularSalario(diasUteis);
+                } 
+            return folha;
+        }
     }
 }
