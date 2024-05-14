@@ -5,13 +5,13 @@ using System.Threading.Tasks;
 
 namespace AbstratoFuncionario
 {
-    public class Assalariado : Funcionario
+    public class Comissionado : Funcionario
     {
-        public Funcionario(int codigo, string nome, double salario) : base(codigo, nome, salario)
+        public double Porcentagem { get; set; }
+
+        public Funcionario(int codigo, string nome, double salario, double porcentagem) : base(codigo, nome, salario)
         {   
-            Codigo = codigo;
-            Nome = nome;
-            Salario = salario;
+            Porcentagem = porcentagem;
         }
         public override double CalcularSalario(int diasUteis) {
             return Salario / 30 * diasUteis;
