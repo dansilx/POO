@@ -1,2 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// -------------------- Método Main() --------------------//  
+
+using AbstratoFuncionario;
+
+Assalariado a1 = new Assalariado(1, "Ana", 1000);
+Assalariado a2 = new Assalariado(2, "Bia", 1000);
+
+Comissionado c1 = new Comissionado(3, "Teo", 1000, 20);
+Comissionado c2 = new Comissionado(4, "Tais", 1000, 30);
+
+Departamento d1 = new Departamento(10, "TI");
+d1.VetF = new List<Funcionario>();
+d1.Admitir(a1);
+d1.Admitir(c1);
+d1.ListarFuncionarios();
+Departamento d2 = new Departamento(11, "RH");
+d2.VetF = new List<Funcionario>();
+d2.Admitir(a2);
+d2.Admitir(c2);
+d2.ListarFuncionarios();
