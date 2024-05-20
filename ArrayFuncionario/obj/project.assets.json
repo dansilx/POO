@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/dansilx/.nuget/packages/": {}
+    "C:\\Users\\BMC010\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dansilx/Projetos/POO/ArrayFuncionario/ArrayFuncionario.csproj",
+      "projectUniqueName": "C:\\Users\\BMC010\\POO\\ArrayFuncionario\\ArrayFuncionario.csproj",
       "projectName": "ArrayFuncionario",
-      "projectPath": "/home/dansilx/Projetos/POO/ArrayFuncionario/ArrayFuncionario.csproj",
-      "packagesPath": "/home/dansilx/.nuget/packages/",
-      "outputPath": "/home/dansilx/Projetos/POO/ArrayFuncionario/obj/",
+      "projectPath": "C:\\Users\\BMC010\\POO\\ArrayFuncionario\\ArrayFuncionario.csproj",
+      "packagesPath": "C:\\Users\\BMC010\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BMC010\\POO\\ArrayFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/dansilx/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\BMC010\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -57,15 +62,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
+            "version": "[6.0.29, 6.0.29]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[6.0.28, 6.0.28]"
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.29, 6.0.29]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
           }
         ],
         "frameworkReferences": {
@@ -73,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

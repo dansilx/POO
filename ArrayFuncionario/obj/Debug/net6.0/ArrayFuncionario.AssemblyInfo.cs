@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayFuncionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eecdfc9de95ee4374def87ab68ef99d714477349")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayFuncionario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayFuncionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

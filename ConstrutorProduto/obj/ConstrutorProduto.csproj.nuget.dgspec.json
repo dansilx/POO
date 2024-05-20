@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/dansilx/Projetos/POO/ConstrutorProduto/ConstrutorProduto.csproj": {}
+    "C:\\Users\\BMC010\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj": {}
   },
   "projects": {
-    "/home/dansilx/Projetos/POO/ConstrutorProduto/ConstrutorProduto.csproj": {
+    "C:\\Users\\BMC010\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dansilx/Projetos/POO/ConstrutorProduto/ConstrutorProduto.csproj",
+        "projectUniqueName": "C:\\Users\\BMC010\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj",
         "projectName": "ConstrutorProduto",
-        "projectPath": "/home/dansilx/Projetos/POO/ConstrutorProduto/ConstrutorProduto.csproj",
-        "packagesPath": "/home/dansilx/.nuget/packages/",
-        "outputPath": "/home/dansilx/Projetos/POO/ConstrutorProduto/obj/",
+        "projectPath": "C:\\Users\\BMC010\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj",
+        "packagesPath": "C:\\Users\\BMC010\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BMC010\\POO\\ConstrutorProduto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dansilx/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\BMC010\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -51,15 +56,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
+              "version": "[6.0.29, 6.0.29]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.28, 6.0.28]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.29, 6.0.29]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
             }
           ],
           "frameworkReferences": {
@@ -67,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
