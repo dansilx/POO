@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vi4h+bQEqQEghS1Hw/8R5WHYIRk5AHns3XdSbSL5GUcyECGJydgAhHhU1ZSiLpjMEoQ2qIob6rM3dhSduDjm5w==",
+  "dgSpecHash": "EPJ+761xEO3mbIHeumAUJ7EaWmwmPN+l2yZ7cpmakdjA9SdcxMPzxUsevCDEjOPNdcHolyYSWilaLQDtcIvyGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BMC010\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/dansilx/Projetos/POO/PolimorfismoFuncionario/PolimorfismoFuncionario.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

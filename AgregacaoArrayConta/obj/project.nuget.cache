@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "khM6BPgyTN6Q7hpdp9RXEN/PdQB6Ve63ef/6LYWYT6hjuE0BKzG1vEs7JF9DvSPOh6T5IvAV6PKqfk5XCyvKwA==",
+  "dgSpecHash": "dE2b+i/FevmvgJk/k5WFPVs6htg4O9P/UG4pvR2qTNOZNPth1QQGBsRb4ROAHDiamolm2FOQRNlcvQczWoi+Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BMC010\\POO\\AgregacaoArrayConta\\AgregacaoArrayConta.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/dansilx/Projetos/POO/AgregacaoArrayConta/AgregacaoArrayConta.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

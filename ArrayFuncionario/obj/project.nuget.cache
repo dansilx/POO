@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TVEQ+xm9Ul0aeHk2emXV7C8Xci6EjwMyQPVYzmaIvx0ygP/j+wnoIVkfDRznFcHTZhF53KuwZYXYuRxxlQaD2Q==",
+  "dgSpecHash": "wO5ibXglSqeYAbB8c+eefpuH7Nz4fGPzOm/5m+4Q5GZs9PEewVgp1uDl37h5MUZRomZITyaq272wFCKZARbMbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BMC010\\POO\\ArrayFuncionario\\ArrayFuncionario.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/dansilx/Projetos/POO/ArrayFuncionario/ArrayFuncionario.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

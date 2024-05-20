@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qPxxoaz5wdnxkywS1eDCe6SC07j+n4fPqsY72xO9ReAQ7hnWnsPuSel5dxqfgJfBa91DDVd4sV75STA2OYs3Dg==",
+  "dgSpecHash": "z3v1UPsOPz/esNzfFg4FYi2eFIvl2y6Hz0J152a4w2s+w3dNDX2gpVNeMFsIqezLgVvPTdqG+v9W0c5z3Q63yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BMC010\\POO\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/dansilx/Projetos/POO/EncapsulamentoFuncionario/EncapsulamentoFuncionario.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

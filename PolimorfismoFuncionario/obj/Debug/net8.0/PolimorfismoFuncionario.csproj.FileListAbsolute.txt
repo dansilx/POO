@@ -1,0 +1,15 @@
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/bin/Debug/net8.0/PolimorfismoFuncionario
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/bin/Debug/net8.0/PolimorfismoFuncionario.deps.json
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/bin/Debug/net8.0/PolimorfismoFuncionario.runtimeconfig.json
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/bin/Debug/net8.0/PolimorfismoFuncionario.dll
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/bin/Debug/net8.0/PolimorfismoFuncionario.pdb
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/PolimorfismoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/PolimorfismoFuncionario.AssemblyInfoInputs.cache
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/PolimorfismoFuncionario.AssemblyInfo.cs
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/PolimorfismoFuncionario.csproj.CoreCompileInputs.cache
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/PolimorfismoFuncionario.sourcelink.json
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/PolimorfismoFuncionario.dll
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/refint/PolimorfismoFuncionario.dll
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/PolimorfismoFuncionario.pdb
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/PolimorfismoFuncionario.genruntimeconfig.cache
+/home/dansilx/Projetos/POO/PolimorfismoFuncionario/obj/Debug/net8.0/ref/PolimorfismoFuncionario.dll

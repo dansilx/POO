@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rxeZpAd6VbZD2VKy+L59E4qA5TQ3yPr6pGXh2FXuUGSYoeAMXFXXMTlUztff4sHlFhDAWMIHUYBLM20lCGe09g==",
+  "dgSpecHash": "T9eRfSxoSAzW7LQt0hbWSr0G+pk1ReBY6BBIxK9w/BdoJj2PGtsxVdd3zXTt7tDOKVYo9YROd+fu+UldRPRHAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BMC010\\POO\\ConstrutorProduto\\ConstrutorProduto.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/dansilx/Projetos/POO/ConstrutorProduto/ConstrutorProduto.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

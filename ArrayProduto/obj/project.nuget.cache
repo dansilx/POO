@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GWJWdmONvDlDv6g0hgCbiZ2VHEoi3BYpBahcH/GfDrrrObldnqKEP3zFYBGPFYlxza4KZ7nd43e+6xXFbYN9pw==",
+  "dgSpecHash": "uwd581lK0eNcC/lG0FcbpQ2Oq/4HV78TVEEPaT1GSjLKsneISjgJSqoCKn3OmDjy+W7Rq3Cu5cjNnpp0fjJUZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BMC010\\POO\\ArrayProduto\\ArrayProduto.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/dansilx/Projetos/POO/ArrayProduto/ArrayProduto.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/29xpBppzln0B1Mi/7lZonmPwXiWqbypW1UyYUDSEylnJ17LcB8VcwhGQXaQiLPwCJDMl5qUgtSVosHJvisFRQ==",
+  "dgSpecHash": "teWaaIGzdYMjfm6RS0ussLCthNNNMygZCTULxM03Pjzgk5MF7i/0cNdUCnb4842H69evekMJoHfTPo0IH9BfSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BMC010\\POO\\ConstrutorConta\\ConstrutorConta.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\BMC010\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/dansilx/Projetos/POO/ConstrutorConta/ConstrutorConta.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

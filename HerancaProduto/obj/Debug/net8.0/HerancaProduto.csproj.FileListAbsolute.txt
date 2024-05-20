@@ -1,0 +1,15 @@
+/home/dansilx/Projetos/POO/HerancaProduto/bin/Debug/net8.0/HerancaProduto
+/home/dansilx/Projetos/POO/HerancaProduto/bin/Debug/net8.0/HerancaProduto.deps.json
+/home/dansilx/Projetos/POO/HerancaProduto/bin/Debug/net8.0/HerancaProduto.runtimeconfig.json
+/home/dansilx/Projetos/POO/HerancaProduto/bin/Debug/net8.0/HerancaProduto.dll
+/home/dansilx/Projetos/POO/HerancaProduto/bin/Debug/net8.0/HerancaProduto.pdb
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/HerancaProduto.GeneratedMSBuildEditorConfig.editorconfig
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/HerancaProduto.AssemblyInfoInputs.cache
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/HerancaProduto.AssemblyInfo.cs
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/HerancaProduto.csproj.CoreCompileInputs.cache
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/HerancaProduto.sourcelink.json
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/HerancaProduto.dll
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/refint/HerancaProduto.dll
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/HerancaProduto.pdb
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/HerancaProduto.genruntimeconfig.cache
+/home/dansilx/Projetos/POO/HerancaProduto/obj/Debug/net8.0/ref/HerancaProduto.dll

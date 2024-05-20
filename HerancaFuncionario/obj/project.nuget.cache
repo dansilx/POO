@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "g+33IxTb+TRvT3nU8H/9ShP7ZNLOpNZzZVi9ivqoSgyYueRa/fYup8MuDiGiSIqqIfT5yZ3bIT7HuMRcAynPKA==",
+  "dgSpecHash": "9/rDoctMubrx/jb7n5yoGE+lD7BLszL6F47KhoSLmrpqdOoT6l0d8i+6c7f2T6I8CQU9mnkjSMrVDLaDDsUrGg==",
   "success": true,
   "projectFilePath": "/home/dansilx/Projetos/POO/HerancaFuncionario/HerancaFuncionario.csproj",
   "expectedPackageFiles": [
-    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/dansilx/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.30/microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }
