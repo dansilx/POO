@@ -12,3 +12,10 @@ System.Console.WriteLine("Bonificação do Gerente: " + g.Bonificacao());
 
 Diretor d = new Diretor(4, "Liz", 1000);
 System.Console.WriteLine("Bonificação do Diretor: " + d.Bonificacao());
+
+GerenciadorBonificacao gb = new GerenciadorBonificacao();
+gb.TotalizadorBonificacao(f);
+gb.TotalizadorBonificacao(s);
+gb.TotalizadorBonificacao(g);
+gb.TotalizadorBonificacao(d);
+System.Console.WriteLine("Total de bonificações: " + gb.TotalBonificacao);

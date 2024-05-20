@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj": {}
+    "C:\\Users\\BMC010\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj": {
+    "C:\\Users\\BMC010\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\BMC010\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
         "projectName": "PolimorfismoFuncionario",
-        "projectPath": "C:\\Users\\Aluno\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\POO\\PolimorfismoFuncionario\\obj\\",
+        "projectPath": "C:\\Users\\BMC010\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
+        "packagesPath": "C:\\Users\\BMC010\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BMC010\\POO\\PolimorfismoFuncionario\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\BMC010\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,16 +48,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
