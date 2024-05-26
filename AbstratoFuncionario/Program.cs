@@ -28,8 +28,10 @@ d2.ListarFuncionarios();
 
 System.Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
 
-
 d1.Demitir(1);
 d2.Demitir(4);
 d1.ListarFuncionarios();
 d2.ListarFuncionarios();
+
+System.Console.WriteLine($"Total {d1.CalcularFolha(30):c}");
+System.Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
