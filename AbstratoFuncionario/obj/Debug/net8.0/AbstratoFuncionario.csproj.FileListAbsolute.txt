@@ -1,0 +1,15 @@
+/home/dansilx/Projetos/POO/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario
+/home/dansilx/Projetos/POO/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario.deps.json
+/home/dansilx/Projetos/POO/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario.runtimeconfig.json
+/home/dansilx/Projetos/POO/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario.dll
+/home/dansilx/Projetos/POO/AbstratoFuncionario/bin/Debug/net8.0/AbstratoFuncionario.pdb
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.AssemblyInfoInputs.cache
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.AssemblyInfo.cs
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.csproj.CoreCompileInputs.cache
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.sourcelink.json
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.dll
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/refint/AbstratoFuncionario.dll
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.pdb
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/AbstratoFuncionario.genruntimeconfig.cache
+/home/dansilx/Projetos/POO/AbstratoFuncionario/obj/Debug/net8.0/ref/AbstratoFuncionario.dll

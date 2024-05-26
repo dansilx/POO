@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AgregacaoArrayConta")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AbstratoFuncionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62e3dd578ea8837520ca321adfcffaf783d61d9c")]
-[assembly: System.Reflection.AssemblyProductAttribute("AgregacaoArrayConta")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AgregacaoArrayConta")]
+[assembly: System.Reflection.AssemblyProductAttribute("AbstratoFuncionario")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AbstratoFuncionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

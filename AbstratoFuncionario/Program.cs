@@ -10,15 +10,26 @@ Comissionado c2 = new Comissionado(4, "Tais", 1000, 30);
 
 Departamento d1 = new Departamento(10, "TI");
 d1.VetF = new List<Funcionario>();
+
 d1.Admitir(a1);
 d1.Admitir(c1);
+
 d1.ListarFuncionarios();
+
 System.Console.WriteLine($"Total {d1.CalcularFolha(30):c}");
+
 Departamento d2 = new Departamento(11, "RH");
 d2.VetF = new List<Funcionario>();
+
 d2.Admitir(a2);
 d2.Admitir(c2);
+
 d2.ListarFuncionarios();
+
 System.Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
+
+
+d1.Demitir(1);
 d2.Demitir(4);
+d1.ListarFuncionarios();
 d2.ListarFuncionarios();
