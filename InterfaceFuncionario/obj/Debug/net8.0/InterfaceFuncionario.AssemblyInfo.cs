@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AgregacaoConta")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceFuncionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+554fff066e5b045d22f8e2f1a740204e5deef3da")]
-[assembly: System.Reflection.AssemblyProductAttribute("AgregacaoConta")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AgregacaoConta")]
+[assembly: System.Reflection.AssemblyProductAttribute("InterfaceFuncionario")]
+[assembly: System.Reflection.AssemblyTitleAttribute("InterfaceFuncionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

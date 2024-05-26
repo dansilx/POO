@@ -1,0 +1,15 @@
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/InterfaceFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/InterfaceFuncionario.AssemblyInfoInputs.cache
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/InterfaceFuncionario.AssemblyInfo.cs
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/InterfaceFuncionario.csproj.CoreCompileInputs.cache
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/InterfaceFuncionario.sourcelink.json
+/home/dansilx/Projetos/POO/InterfaceFuncionario/bin/Debug/net8.0/InterfaceFuncionario
+/home/dansilx/Projetos/POO/InterfaceFuncionario/bin/Debug/net8.0/InterfaceFuncionario.deps.json
+/home/dansilx/Projetos/POO/InterfaceFuncionario/bin/Debug/net8.0/InterfaceFuncionario.runtimeconfig.json
+/home/dansilx/Projetos/POO/InterfaceFuncionario/bin/Debug/net8.0/InterfaceFuncionario.dll
+/home/dansilx/Projetos/POO/InterfaceFuncionario/bin/Debug/net8.0/InterfaceFuncionario.pdb
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/InterfaceFuncionario.dll
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/refint/InterfaceFuncionario.dll
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/InterfaceFuncionario.pdb
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/InterfaceFuncionario.genruntimeconfig.cache
+/home/dansilx/Projetos/POO/InterfaceFuncionario/obj/Debug/net8.0/ref/InterfaceFuncionario.dll
